@@ -1,0 +1,81 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.header{
+	background-color: rgb(28, 26, 41);
+}
+
+.top-information {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 70px;
+}
+
+.logo{
+	padding-top: 10px;
+	padding-left: 200px;
+	width: 150px;
+	height: 50px;
+}
+
+.links-1 {
+	list-style: none;
+	display: flex;
+	gap: 26px;
+	padding-right: 200px;
+}
+
+a {
+	color: red;
+	font-size: 20px;
+	font-family: 'Broken Console', sans-serif;
+}
+
+.header_1 {
+	font-weight: bold;
+	font-size: 30px;
+	color: red;
+	font-family: 'Broken Console', sans-serif;
+	margin-bottom: 0;
+}
+
+.para_1 {
+	font-size: 20px;
+	font-family: 'Broken Console', sans-serif;
+	color: white;
+}
+
+.site-intro{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 50px;
+}
+
+.left {
+	padding-left: 200px;
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.first-button {
+	padding-top: 5px;
+	width: 100px;
+	height: auto;
+	border-radius: 20%;
+	background-color: red;
+	color: white;
+	font-family: 'Broken Console', sans-serif;
+}
+
+.need-img {
+	width: 400px;
+	height: auto;
+	padding-right: 200px;
+	padding-bottom: 30px;
+}
+
