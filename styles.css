@@ -92,6 +92,7 @@ a:active {
 	max-width: 400px;
 	height: auto;
 	margin-bottom: 30px;
+	border-radius: 10px;
 }
 
 .objs {
@@ -114,10 +115,9 @@ a:active {
 
 .pic-1,
 .pic-2, .pic-3, .pic-4 {
-	max-width: 250px;
-	max-height: 150px;
-	min-width: 100px;
-	min-height: 50px;
+	min-width: 18vw;
+	max-height: 20vh;
+	min-height: 16vh;
 	border: 3px solid red;
 	border-radius: 10px;
 }
@@ -193,19 +193,23 @@ a:active {
 	margin-bottom: 70px;
 	flex-wrap: wrap;
 	padding: 2px;
+	text-align: center;
 }
 
 .mini-title {
 	font-family: 'Broken Console', sans-serif;
 	font-size: 15px;
-	margin-left: -40px;
+	width: 80vw;
+	text-align: center;
 }
 
 .sign-up-appeal {
 	font-family: 'Broken Console', sans-serif;
 	font-size: 10px;
-	margin-left: -40px;
 	color: rgb(19, 18, 18);
+	width: 80vw;
+	text-align: center;
+	margin-bottom: 5px;
 }
 
 .button-2 {
@@ -216,8 +220,6 @@ a:active {
 	border-radius: 10px;
 	color: white;
 	padding-top: 5px;
-	margin-top: 20px;
-	margin-left: 40px;
 }
 
 .button-2:active {
