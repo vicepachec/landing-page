@@ -149,8 +149,6 @@ a:active {
 }
 
 .desc-2 {
-	max-width: 200px;
-	min-width: 25;
 	font-size: 18px;
 	font-weight: bold;
 	font-family: 'Broken Console', sans-serif;
