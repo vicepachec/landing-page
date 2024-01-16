@@ -128,6 +128,7 @@ a:active {
 	justify-content: center;
 	gap: 30px;
 	margin-bottom: 70px;
+	width: 100vw;
 }
 
 .desc-1,
