@@ -117,7 +117,7 @@ a:active {
 .pic-2, .pic-3, .pic-4 {
 	min-width: 18vw;
 	max-height: 20vh;
-	min-height: 16vh;
+	min-height: 14vh;
 	border: 3px solid red;
 	border-radius: 10px;
 }
@@ -132,7 +132,7 @@ a:active {
 .desc-1,
 .desc-2, .desc-3, .desc-4 {
 	max-width: 18vw;
-	min-width: 10vh;
+	min-width: 6vh;
 	display: flex;
 	flex-wrap: wrap;
 }
